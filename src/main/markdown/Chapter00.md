@@ -33,3 +33,5 @@ object Main{
   }
 }
 ~~~
+
+``Hello World!``と出力されたら成功です。
